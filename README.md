@@ -2,6 +2,7 @@
 Bot deathmatch in the browser used to kill time in free period.
 
 The whole point of this project was to get a working and unblocked web client of Kripken's original BananaBread game. All credit goes to Kripken for making the web port of Cube2.
+
 From the original README:
 
 >A port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the
